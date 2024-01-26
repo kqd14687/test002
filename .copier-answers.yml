@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_src_path: /tmp/2744154b-3bc4-43a0-8e2b-4617dd0b5dd4_step-fetch-base-UVxKpi/template/copier
+author_email: man.chan@diamond.ac.uk
+author_name: Man Ting Chan
+component_owner: user:default/kqd14687
+description: test
+distribution_name: test002
+docker: true
+docs_type: README
+git_platform: github.com
+github_org: kqd14687
+package_name: test002
+repo_name: test002
